@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+
 body {
     background-color: #d9dcd6;
 }
@@ -70,6 +71,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+
+/* Style aside "Benefits Section" */
 
 .content {
     width: 75%;
